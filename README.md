@@ -6,3 +6,5 @@ While HamCall and this application both require Windows, once the export is comp
 - Microsoft Window XP or Higher
 - HamCall DVD, USB, or digital download
 - 30 Meg of free RAM on the machine running Js8Call Monitor
+# Releases
+Please see sidebar for releases and executables.
