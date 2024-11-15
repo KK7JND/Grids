@@ -5,4 +5,4 @@ While HamCall and this application both require Windows, once the export is comp
 # Prerequisites
 - Microsoft Window XP or Higher
 - HamCall DVD, USB, or digital download
- -30 Meg of free RAM on the machine running the js8call_monitor script
+- 30 Meg of free RAM on the machine running the js8call_monitor script
